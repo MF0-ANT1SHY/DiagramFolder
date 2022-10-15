@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-15T10:58:11.214Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="998fT_tUsZ6jDLHaCBlV" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-15T11:09:45.988Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="N4iHyFDbrBPe9AyRu7sJ" version="20.4.0" type="github">
   <diagram id="do2WOSvU9mOXwwLslCZU" name="Page-1">
     <mxGraphModel dx="728" dy="443" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,7 +18,7 @@
             <mxPoint x="201" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="us4q_f93dMYU3MT9Z78H-1" value="后端平台" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Folder_Website.svg;" vertex="1" parent="1">
+        <mxCell id="us4q_f93dMYU3MT9Z78H-1" value="&lt;font color=&quot;#333333&quot;&gt;后端平台&lt;/font&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Folder_Website.svg;" vertex="1" parent="1">
           <mxGeometry x="167" y="300" width="68" height="56.00000000000001" as="geometry" />
         </mxCell>
         <mxCell id="us4q_f93dMYU3MT9Z78H-4" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -60,6 +60,14 @@
         </mxCell>
         <mxCell id="us4q_f93dMYU3MT9Z78H-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-4/24/history-128.png;labelBorderColor=none;fontSize=20;fontColor=#6666FF;" vertex="1" parent="1">
           <mxGeometry x="450" y="141.5" width="27" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="us4q_f93dMYU3MT9Z78H-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontColor=#333333;" edge="1" parent="1" source="us4q_f93dMYU3MT9Z78H-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="159.30769230769226" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="us4q_f93dMYU3MT9Z78H-23" value="&lt;font color=&quot;#333333&quot;&gt;区块链平台&lt;/font&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/blockchain/Consortium.svg;labelBackgroundColor=none;labelBorderColor=none;fontColor=#6666FF;" vertex="1" parent="1">
+          <mxGeometry x="41" y="206" width="68" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
